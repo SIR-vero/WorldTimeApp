@@ -1,5 +1,5 @@
 # world_time
 
-A Flutter application the lets you monitor time of different places.
+A Flutter application that lets you monitor time of different places.
 
 
